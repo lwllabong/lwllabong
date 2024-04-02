@@ -3,7 +3,8 @@
 
 - 📫 How to reach me **https://www.facebook.com/louwellaaaaa**
 
-- ⚡ Fun fact **I think I'm cute.**
+- ⚡ Fun fact **I think I'm cute.**  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

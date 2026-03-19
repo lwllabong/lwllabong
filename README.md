@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louwella P. Abong</h1>
-<h3 align="center">A future Mechatronics Engineer from Philippines</h3>
+<h3 align="center">A Mechatronics Engineer from Philippines</h3>
 
 - 📫 How to reach me **https://www.facebook.com/louwellaaaaa**
 
